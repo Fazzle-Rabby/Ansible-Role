@@ -1,6 +1,6 @@
 ---
-aws_access_key: "AKIAT3"
-aws_secret_key: "224nW+yb"
+aws_access_key: ""
+aws_secret_key: ""
 region: "us-east-1"
 
 
